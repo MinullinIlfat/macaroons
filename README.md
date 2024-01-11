@@ -1,2 +1,2 @@
 # Macaroons
-https://minullinilfat.github.io/macaroons/
+https://minullinilfat.github.io/Macaroons/
